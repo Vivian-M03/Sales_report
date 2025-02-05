@@ -16,4 +16,4 @@ Este projeto tem como objetivo analisar o desempenho de mercado de uma multinaci
 ## 📂 Como Acessar o Projeto  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Vivian-M03/Sales_report
